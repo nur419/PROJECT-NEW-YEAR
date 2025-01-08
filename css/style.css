@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+.happy{
+    width: 1320px;
+    height: 600px;
+    background-color: aqua;
+    margin: 50px auto;
+    border-radius: 16px;
+    align-content: center;
+    justify-content: center;
+}
+.happy_new{
+    width: 532px;
+    height: 246px;
+    margin: auto;
+    gap: 16px;
+   
+}
+.happy_new p,h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 16px;
+}
